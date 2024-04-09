@@ -1,7 +1,7 @@
 ## GOLang SDK for Layer Payment
 ----------------------------------
 
-Version go1.14.7 windows/amd64
+Version go1.22.2 windows/amd64
 
 Steps to install and run
 
